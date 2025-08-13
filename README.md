@@ -4,11 +4,8 @@ I'm a results-driven **Data Analyst** and **Software Developer** with a passion 
 
 I have hands-on experience building **ETL pipelines**, **interactive dashboards**, and **AI-powered applications**, as well as developing **Unity games with reinforcement learning**. From deploying deep learning models for medical imaging to designing scalable data workflows, I thrive on solving complex problems and exploring emerging tech trends.  
 
-📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/shubhampatel15400) | [GitHub](https://github.com/shubham15400)
 
-
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubhampatel15400) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamp15400@gmail.com) 
 
 # 💻 Tech Stack:
